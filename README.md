@@ -18,11 +18,11 @@
 
 ## MAIN
 
-### 1. Adobe GenP：
+### Adobe GenP：
 
 （编程语言：Autolt v3）
 
-Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互联网档案馆）已被全面封杀，GitHub 主仓库也已被封禁，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
+Adobe 全家桶破解工具，**该软件本体和源代码在外网（Reddit, 互联网档案馆）已被全面封杀，GitHub 主仓库也已被封禁**，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
    
 - etherized 维护的 **GenP 汉化版**：
    
@@ -44,12 +44,21 @@ Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互
      - https://gitee.com/GylMark/AdobeGenp.git
 
 
-### 2. Microsoft Activation Scripts (MAS)：
+### Microsoft Activation Scripts (MAS)：
 
 （编程语言：Windows CMD 脚本命令）
 
-Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活
+Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
 
 - GitHub 仓库：https://github.com/massgravel/Microsoft-Activation-Scripts
 - 官网：https://massgrave.dev
 - 一键启动 PowerShell 命令：`irm https://get.activated.win | iex`
+
+
+### WinRAR-Keygen
+
+（编程语言：C++/C）
+
+WinRAR 密钥文件 (rarreg.key) 生成工具。
+
+- GitHub 仓库：https://github.com/bitcookies/winrar-keygen
