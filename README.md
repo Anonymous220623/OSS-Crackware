@@ -8,6 +8,10 @@
 1. GitHub/DMCA
 2. Adobe
 
+> [!WARNING]
+>
+> 游戏 DRM 破解工具请见：https://github.com/Anonymous220623/OSS-Crackware/blob/main/GAME.md
+
 > [!CAUTION]
 >
 > 该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，Clone 或下载 ZIP 存档。
