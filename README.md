@@ -1,6 +1,10 @@
 # OSS-Crackware
 此仓库提供开源的闭源收费软件破解工具列表，供用户掌握这些软件的基本信息。【F**K DMCA】
 
+> [!CAUTION]
+>
+> 该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，Clone 或下载 ZIP 存档。
+
 1. **Adobe GenP**：Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互联网档案馆，GitHub）已被全面封杀，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
    
     - etherized 维护的 **GenP 汉化版**：
