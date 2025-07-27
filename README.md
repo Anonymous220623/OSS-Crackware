@@ -3,10 +3,10 @@
 
 ## 致谢
 
-感谢它们全家：
+感谢（F**k）它们全家：
 
-1. GitHub/DMCA
-2. Adobe
+1. @GitHub/DMCA
+2. @Adobe
 
 > [!WARNING]
 >
