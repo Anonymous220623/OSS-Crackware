@@ -5,15 +5,23 @@
 >
 > 该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，Clone 或下载 ZIP 存档。
 
-1. **Adobe GenP**：Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互联网档案馆，GitHub）已被全面封杀，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
+1. **Adobe GenP**：Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互联网档案馆）已被全面封杀，GitHub 主仓库也已被封禁，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
    
     - etherized 维护的 **GenP 汉化版**：
       
       - GitHub 仓库：https://github.com/etherized/GenP
 
-    以下链接包含汉化版源代码仓库和构建的 v3.6.4 程序文件压缩包：
+       以下链接包含汉化版源代码仓库和构建的 v3.6.4 程序文件压缩包：
    
-      - Google Drive（国内被墙，链接可能被封）：https://drive.google.com/file/d/1CI0-rkVs0T5OpwgoIgkni3k3OzQIm09V/view?usp=sharing
-      - 123 云盘链接 1：https://www.123684.com/s/kPxoTd-OfWxH
-      - 123 云盘链接 2：https://www.123865.com/s/kPxoTd-OfWxH
-      - 蓝奏云链接：https://micro201014.lanzouw.com/i18mp31yi1sb
+         - Google Drive（国内被墙，链接可能被封）：https://drive.google.com/file/d/1CI0-rkVs0T5OpwgoIgkni3k3OzQIm09V/view?usp=sharing
+         - 123 云盘链接 1：https://www.123684.com/s/kPxoTd-OfWxH
+         - 123 云盘链接 2：https://www.123865.com/s/kPxoTd-OfWxH
+         - 蓝奏云链接：https://micro201014.lanzouw.com/i18mp31yi1sb
+
+   - **GenP 原版**（停止维护版本：v3.0.3）：
+
+     - GitHub 仓库（镜像）：https://github.com/itsmoonx3/GenP-Source-Code
+
+   - Gitee 仓库（镜像）：
+
+     - https://gitee.com/GylMark/AdobeGenp.git
