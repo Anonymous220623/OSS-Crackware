@@ -9,7 +9,7 @@
 >
 > 该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，Clone 或下载 ZIP 存档。
 
-1. **Adobe GenP**：Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互联网档案馆）已被全面封杀，GitHub 主仓库也已被封禁，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
+1. **Adobe GenP**（编程语言：Autolt v3）：Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互联网档案馆）已被全面封杀，GitHub 主仓库也已被封禁，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
    
     - etherized 维护的 **GenP 汉化版**：
       
