@@ -42,7 +42,7 @@ Adobe 全家桶破解工具，**该软件本体和源代码在外网（Reddit, �
 - Gitee 仓库（镜像）：
 
      - https://gitee.com/GylMark/AdobeGenp.git
-
+---
 
 ### 🎯Microsoft Activation Scripts (MAS)
 
@@ -54,7 +54,7 @@ Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
 - 官网：https://massgrave.dev
 - 一键启动 PowerShell 命令：`irm https://get.activated.win | iex`
 
-
+---
 ### 🎯WinRAR-Keygen
 
 （编程语言：C++/C）
@@ -62,7 +62,7 @@ Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
 WinRAR 密钥文件 (rarreg.key) 生成工具。
 
 - GitHub 仓库：https://github.com/bitcookies/winrar-keygen
-
+---
 
 ### 🎯LKY Office Tools
 
