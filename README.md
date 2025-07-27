@@ -18,7 +18,7 @@
 
 ## MAIN
 
-### Adobe GenP：
+### Adobe GenP
 
 （编程语言：Autolt v3）
 
@@ -44,7 +44,7 @@ Adobe 全家桶破解工具，**该软件本体和源代码在外网（Reddit, �
      - https://gitee.com/GylMark/AdobeGenp.git
 
 
-### Microsoft Activation Scripts (MAS)：
+### Microsoft Activation Scripts (MAS)
 
 （编程语言：Windows CMD 脚本命令）
 
