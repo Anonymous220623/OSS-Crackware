@@ -62,3 +62,12 @@ Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
 WinRAR 密钥文件 (rarreg.key) 生成工具。
 
 - GitHub 仓库：https://github.com/bitcookies/winrar-keygen
+
+
+### LKY Office Tools
+
+（编程语言：C#）
+
+MS Office 一键下载/安装/激活工具
+
+- GitHub 仓库：https://github.com/OdysseusYuan/LKY_OfficeTools
