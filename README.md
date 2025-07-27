@@ -40,3 +40,14 @@ Adobe 全家桶破解工具，该软件本体和源代码在外网（Reddit, 互
 - Gitee 仓库（镜像）：
 
      - https://gitee.com/GylMark/AdobeGenp.git
+
+
+### 2. Microsoft Activation Scripts (MAS)：
+
+（编程语言：Windows CMD 脚本命令）
+
+Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活
+
+- GitHub 仓库：https://github.com/massgravel/Microsoft-Activation-Scripts
+- 官网：https://massgrave.dev
+- 一键启动 PowerShell 命令：`irm https://get.activated.win | iex`
