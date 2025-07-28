@@ -7,3 +7,8 @@
 1. **Steam Game Automatic Cracker**（C#/.NET）：https://github.com/SteamAutoCracks/Steam-auto-crack
 2. **Steam Auto Creaker**（Python）：https://github.com/BigBoiCJ/SteamAutoCracker
 3. **Steamless**（C#/.NET）：https://github.com/atom0s/Steamless
+
+
+### Epic
+
+1. **ScreamAPI**（C++/C）：https://github.com/acidicoala/ScreamAPI
