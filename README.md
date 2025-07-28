@@ -63,6 +63,7 @@ Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
 （编程语言：C++/C）
 
 WinRAR 密钥文件 (rarreg.key) 生成工具。
+此仓库还详细介绍了 WinRAR 的密钥生成和验证算法，有兴趣的用户或开发者可以研究：[English](https://github.com/bitcookies/winrar-keygen/blob/master/README.HOW_DOES_IT_WORK.md)  [简体中文](https://github.com/bitcookies/winrar-keygen/blob/master/README.HOW_DOES_IT_WORK.zh-CN.md)
 
 - GitHub 仓库：https://github.com/bitcookies/winrar-keygen
 
