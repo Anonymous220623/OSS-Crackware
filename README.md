@@ -50,7 +50,7 @@ Adobe 全家桶破解工具，**该软件本体和源代码在外网（Reddit, �
 
 （编程语言：Windows CMD 脚本命令）
 
-Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
+激活 Windows & Office 的命令行工具，支持数字许可证/在线KMS/KMS38激活。
 
 - GitHub 仓库：https://github.com/massgravel/Microsoft-Activation-Scripts
 - 官网：https://massgrave.dev
@@ -73,6 +73,6 @@ WinRAR 密钥文件 (rarreg.key) 生成工具。
 
 （编程语言：C#）
 
-MS Office 一键下载/安装/激活工具
+MS Office 一键下载/安装/激活的命令行工具
 
 - GitHub 仓库：https://github.com/OdysseusYuan/LKY_OfficeTools
