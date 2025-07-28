@@ -15,7 +15,7 @@
 
 > [!CAUTION]
 > 
-> 因 GitHub DMCA 审查，该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，[Clone](x-github-client://openRepo/https://github.com/Anonymous220623/OSS-Crackware?branch=main) 或下载 ZIP 存档。
+> 因 GitHub DMCA 审查，该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 [Fork](https://github.com/Anonymous220623/OSS-Crackware/fork)，[Clone](x-github-client://openRepo/https://github.com/Anonymous220623/OSS-Crackware?branch=main) 或下载 ZIP 存档。
 
 ## MAIN
 
