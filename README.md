@@ -15,7 +15,7 @@
 
 > [!CAUTION]
 > 
-> 该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，Clone 或下载 ZIP 存档。
+> 因 GitHub DMCA 审查，该仓库可能有被封禁的风险，如果您想保留此仓库，请赶紧 Fork，Clone 或下载 ZIP 存档。
 
 ## MAIN
 
