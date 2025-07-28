@@ -54,7 +54,7 @@ Windows & Office 激活工具，支持数字许可证/在线KMS/KMS38激活。
 
 - GitHub 仓库：https://github.com/massgravel/Microsoft-Activation-Scripts
 - 官网：https://massgrave.dev
-- 一键启动 PowerShell 命令：`irm https://get.activated.win | iex`
+- 一键启动 PowerShell 命令：`irm https://get.activated.win | iex`（命令来自官网）
 
 ---
 
