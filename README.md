@@ -48,7 +48,7 @@ Adobe 全家桶破解工具，**该软件本体和源代码在外网（Reddit, �
 
 ### 🎯Microsoft Activation Scripts (MAS)
 
-（编程语言：Windows CMD 脚本命令）
+（编程语言：Windows CMD 命令脚本）
 
 激活 Windows & Office 的命令行工具，支持数字许可证/在线KMS/KMS38激活。
 
