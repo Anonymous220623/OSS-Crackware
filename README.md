@@ -9,14 +9,6 @@
 1. @GitHub/DMCA
 2. @Adobe
 
-> [!WARNING]
-> 
-> 游戏 DRM 破解工具请见：https://github.com/Anonymous220623/OSS-Crackware/blob/main/GAME.md
-
-> [!CAUTION]
-> 
-> 因近期 GitHub DMCA 审查，该仓库可能会被封禁，如果您想保留此仓库，请赶紧 [Fork](https://github.com/Anonymous220623/OSS-Crackware/fork)，[Clone](x-github-client://openRepo/https://github.com/Anonymous220623/OSS-Crackware?branch=main) 或[下载 ZIP 存档](https://github.com/Anonymous220623/OSS-Crackware/archive/refs/heads/main.zip)。
-
 ## MAIN
 
 ### 🎯Adobe GenP
