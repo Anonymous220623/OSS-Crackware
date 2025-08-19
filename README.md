@@ -2,20 +2,13 @@
 
 此仓库提供开源的闭源收费软件破解工具列表，供用户掌握这些软件的基本信息。
 
-## 致谢
-
-感谢（F**k）它们全家：
-
-1. @GitHub/DMCA
-2. @Adobe
-
 ## MAIN
 
 ### 🎯Adobe GenP
 
 （编程语言：Autolt v3）
 
-Adobe 全家桶破解工具，**该软件本体和源代码在外网（Reddit, 互联网档案馆）已被全面封杀，GitHub 主仓库也已被封禁**，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
+Adobe 全家桶破解工具，**该软件的 GitHub 主仓库已被封禁**，[了解详细信息](https://github.com/github/dmca/blob/master/2025/06/2025-06-18-adobe.md)。
 
 - etherized 维护的 **GenP 汉化版**：
   
